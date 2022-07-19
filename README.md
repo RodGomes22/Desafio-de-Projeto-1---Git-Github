@@ -1,2 +1,3 @@
-# Desafio-de-Projeto-1---Git-Github
-Desafio de Projeto Git/Github
+# Desafio de Projeto 1 - Git/Github
+
+## Trilha Percorrida até o Momento
